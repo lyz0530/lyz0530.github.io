@@ -1,32 +1,31 @@
 ---
 permalink: /about/
-title: "About"
 ---
 
 > 昨天所有的荣誉，已变成遥远的回忆。
 
-# Stuffy Bio
+### Stuffy Bio
 
 ---
 
-# Some Honors
+### Some Honors
 
 ---
 
-# Dissertations
+### Dissertations
 
 ---
 
-# Published
+### Published
 
 ---
 
-# Patents
+### Patents
 
 ---
 
-# Patents
+### Patents
 
 ---
 
-# Books
+### Books
