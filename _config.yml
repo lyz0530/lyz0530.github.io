@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Chunqiao Li"
+  name   : "李春桥"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "规格严格 自由无用"
   links:
